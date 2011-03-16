@@ -1,0 +1,13 @@
+
+
+This archive contains the distribution Text-Zilla-File-TT,
+version 0.001:
+
+  Most simple implementation of a Text::Zilla::Role::File::TT
+
+This software is copyright (c) 2011 by Torsten Raudssus.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
+
+
